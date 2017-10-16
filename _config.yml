@@ -1,8 +1,8 @@
 theme: jekyll-theme-cayman
 
 # Site details
-title: [Interpreter Zone]
-description: [The organization of Hobby Projects]
+title: Interpreter Zone
+description: The organization of Hobby Projects
 
 show_downloads: ["true"]
 # google_analytics: [Your Google Analytics tracking ID]   # Set it to later
